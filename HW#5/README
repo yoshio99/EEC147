@@ -1,0 +1,2 @@
+This assignments builds on earlier assignments to create a Convolutional Neural Network (CNN) using only numpy. Convolutional forward pass, backpropagation, and batch 
+normalization were implemented.
