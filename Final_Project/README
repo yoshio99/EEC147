@@ -1,0 +1,4 @@
+The final project was designed to test implementations of architectures other than FCs and CNNs with the goal being a classification task of EEG data. My project implemented
+and optimized Convolutional Neural Networks, Recurrent Neural Networks (RNNs), and a CNN-RNN hybrid. Different architectures were designed for each model type, and after
+hyperparameter tuning, were tested via cross validation. It was found that a CNN-LSTM (Long Short-Term Memory RNN) hybrid worked best in exploiting the temporality of the EEG data 
+and performed best on the test set. It was also found that data augmentation in the form of subsampling helped to vastly improve the accuracy of all models.
