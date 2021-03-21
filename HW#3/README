@@ -1,0 +1,2 @@
+This assignment was to implement key parts of a basic neural network architecture, including the forward pass, backpropagation, and gradient step. Everything was implemented with 
+numpy, and vectorized approaches were used to optimize the speed of training.
