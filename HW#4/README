@@ -1,0 +1,1 @@
+This assignment builds on the Fully Connected (FC) Network from HW#3, adding in optimizations to improve training (batch normalization, regularization, dropout).
