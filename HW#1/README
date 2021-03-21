@@ -1,0 +1,2 @@
+This homework assignment was designed to review machine learning concepts that are very important to learning about neural networks and deep learning. This assignment implemented 
+three models: K-Nearest Neighbors (KNN), Softmax Classifier, and Support Vector Machine (SVM). All implementations were done without using sklearn (only allowed to use numpy).
